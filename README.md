@@ -7,7 +7,7 @@ OneText (onetext.com) is a conversational commerce platform designed to increase
 click [here](https://github.com/alimuradjafari/test-project) for live demo
 
 ---
-# Founder
+# Project Manager 
 ![alij](https://avatars.githubusercontent.com/u/123054336?v=4)
 > alij worldwide community and freindship
 >
